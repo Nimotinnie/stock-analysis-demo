@@ -14,4 +14,4 @@ A Python demo analyzing the stock prices of Apple, Google, Microsoft, and Amazon
 - Custom function for summary statistics
 - Visualization with Matplotlib and Seaborn
 
-[View Code](stock_analysis_demo.png) | [View PDF](stock_analysis_closing.png)
+[View Code](stock_analysis_demo.py) | [View PDF](stock_analysis_demo.png)
