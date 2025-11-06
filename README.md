@@ -1,5 +1,5 @@
 # Stock Analysis Demo (Python): Stock Price Trend Analysis
-A Python demo analyzing the stock prices of Apple, Google, Microsoft, and Amazon using `pandas` and `yfinance`.
+A Python demo analyzing the stock prices of Apple, Google, Microsoft, and Amazon using `pandas` and `yfinance`
 
 A two-page code sample for program supplement, showcasing:
 - Data ingestion from Yahoo Finance (yfinance)
